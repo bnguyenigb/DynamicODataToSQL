@@ -1,0 +1,9 @@
+{
+    "remote.WSL.debug": true,
+    "remote.WSL.fileWatcher.polling": true,
+    "typescript.tsserver.useSyntaxServer": "always",
+    "typescript.tsserver.enableTracing": true,
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on"
+}
